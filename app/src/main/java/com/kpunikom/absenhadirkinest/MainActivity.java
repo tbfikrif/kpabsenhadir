@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     // jika format encoded tidak sesuai maka hasil
                     // ditampilkan ke toast
                     Toast.makeText(this, result.getContents(), Toast.LENGTH_SHORT).show();
+                    // TEST PUSH GIT
                 }
             }
         }else{
